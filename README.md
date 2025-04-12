@@ -36,6 +36,7 @@ A full-stack **movie review platform** where users can write reviews for movies.
 | XAMPP      | Local server setup |
 
 ---
+## Collabration: Vikas Thakur and Nitin Atwal
 ## Screenshots
 
 ![image](https://github.com/user-attachments/assets/4c12be99-aa39-4e0e-b99d-69ffbe7ec1fa)
