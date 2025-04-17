@@ -1,4 +1,4 @@
-# 🎬 Movie Review System 
+![Screenshot 2025-04-13 092620](https://github.com/user-attachments/assets/3bf73cf8-cae9-4b5c-bc57-cf23e6bd137b)# 🎬 Movie Review System 
 
 A full-stack **movie review platform** where users can write reviews for movies. Built with a frontend in **HTML/CSS/JavaScript**, and a backend powered by **PHP** and **MySQL**, hosted locally using **XAMPP**.
 
@@ -40,6 +40,9 @@ A full-stack **movie review platform** where users can write reviews for movies.
 ## Screenshots
 
 ![image](https://github.com/user-attachments/assets/4c12be99-aa39-4e0e-b99d-69ffbe7ec1fa)
+![Screenshot 2025-04-13 092634](https://github.com/user-attachments/assets/ee93ef83-02a5-4dd5-9f6a-c216623c9fc9)
+![Screenshot 2025-04-13 092645](https://github.com/user-attachments/assets/0317a344-1bc1-4374-8a94-ecc6c8dd084e)
+![Screenshot 2025-04-13 092620](https://github.com/user-attachments/assets/d0f4ca3f-6bdb-44ee-b6c7-67b5277ffe31)
 
 
 ## ⚙️ How to Run the Project Locally
