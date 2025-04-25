@@ -66,18 +66,9 @@ A full-stack **movie review platform** where users can write reviews for movies.
 
 5. Create a database (e.g., movie_reviews)
 
-6. Import the provided .sql file (if included) or create the required reviews table:
+6. Import the provided .sql file (if included) or create the  reviews table:
 
-sql
-Copy
-Edit
----MYSQL Queries
-CREATE TABLE reviews (
-  id INT AUTO_INCREMENT PRIMARY KEY,
-  movie_title VARCHAR(255),
-  user_review TEXT,
-  timestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-);
+
 Open the project in your browser:
 
 perl
