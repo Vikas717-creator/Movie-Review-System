@@ -71,14 +71,13 @@ A full-stack **movie review platform** where users can write reviews for movies.
 
 Open the project in your browser:
 
-perl
 Copy
 Edit
 http://localhost/movie-review-system
-📝 Example Table Format (MySQL)
-ID	Movie Title	User Review	Timestamp
-1	Inception	Mind-blowing plot! Loved it.	2025-04-11 10:43:12
-2	Titanic	Beautiful story. Timeless.	2025-04-11 10:45:19
+## 📝 Example Table Format (MySQL)
+ID	Movie       Title	              User Review	  Timestamp
+1	Inception	Mind-blowing plot!  Loved it.	     2025-04-11 10:43:12
+2	Titanic	   Beautiful story.    Timeless.	     2025-04-11 10:45:19
 ## 🔮 Future Plans
 🔎 Add search and filter functionality by movie or rating
 
